@@ -93,9 +93,8 @@ function App() {
                         </p>
                     </div>
                     <div className="project">
-                        <a href="#">
-                            <h4>Master Data</h4>
-                        </a>
+                        <h4>Master Data</h4>
+
                         <p>
                             Worked on analyzing a relational database and SQL
                             script within a university database. The goal was to
@@ -119,21 +118,28 @@ function App() {
                             <b>Data Engineer</b> Oct 2021 - Dec 2021
                         </p>
 
-                        <p>
-                            Worked on analyzing a relational database and SQL
-                            script within a university database. The goal was to
-                            create a refined structure for the database,
-                            optimizing its organization and efficiency. This
-                            project provided me with valuable hands-on
-                            experience in working with real-world databases,
-                            allowing me to enhance my skills in data analysis
-                            and database management.
-                        </p>
+                        <ul>
+                            <li>
+                                Trained in big data and data analytics modules,
+                                including SQL, Hadoop and Machine Learning
+                            </li>
+                            <li>
+                                Gained experience in Tableau project for
+                                analyzing business information to meet specific
+                                requirements and utilize the appropriate chart
+                                types.
+                            </li>
+                            <li>
+                                Utilized Informatica and Cloudera Data Science
+                                Workbench for data management, profiling,
+                                pipelining, and monitoring.
+                            </li>
+                        </ul>
                     </div>
                     <div className="project">
                         <h4>KASIKORN Business-Technology Group</h4>
                         <p className="stack">
-                            <b>Data Engineer Intern</b> Oct 2021 - Dec 2021
+                            <b>Data Engineer Intern</b> Jun 2021 - Jul 2021
                         </p>
 
                         <ul>
@@ -156,7 +162,7 @@ function App() {
                     </div>
                 </section>
                 <footer>
-                    <p>&copy; 2023 John Doe. All rights reserved.</p>
+                    <p>&copy; 2023 Jirapat Klaokliang. All rights reserved.</p>
                 </footer>
             </div>
         </>
