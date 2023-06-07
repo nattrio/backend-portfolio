@@ -156,7 +156,7 @@ function App() {
                     </div>
                 </section>
                 <footer>
-                    <p>&copy; 2023 John Doe. All rights reserved.</p>
+                    <p>&copy; 2023 Jirapat Klaokliang. All rights reserved.</p>
                 </footer>
             </div>
         </>
