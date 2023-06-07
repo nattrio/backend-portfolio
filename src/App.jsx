@@ -56,6 +56,9 @@ function App() {
                         >
                             <h4>Go Note App</h4>
                         </a>
+                        <p className="stack">
+                            <b> Stack: </b>Go Fiber, GORM, PostgreSQL, Docker
+                        </p>
                         <p>
                             Simple note-taking application built with Go,
                             adhering to the clean architecture principles. It
@@ -63,9 +66,6 @@ function App() {
                             update, and delete notes. The application is
                             containerized using Docker and can be easily
                             deployed and managed using Docker Compose.
-                        </p>
-                        <p className="stack">
-                            <b> Stack: </b>Go Fiber, GORM, PostgreSQL, Docker
                         </p>
                     </div>
                     <div className="project">
@@ -78,6 +78,10 @@ function App() {
                                 Undergraduate Student Admission Screening System
                             </h4>
                         </a>
+                        <p className="stack">
+                            <b> Stack: </b>Python FastAPI, NumPy, Pandas,
+                            Scikit-learn, Matplotlib, MongoDB, Docker
+                        </p>
                         <p>
                             This project aimed to develop a system for
                             predicting undergraduate students' performance in
@@ -87,16 +91,15 @@ function App() {
                             interface development. Five machine learning
                             algorithms were studied.
                         </p>
-                        <p className="stack">
-                            <b> Stack: </b>Python FastAPI, NumPy, Pandas,
-                            Scikit-learn, Matplotlib, MongoDB, Docker
-                        </p>
                     </div>
                     <div className="project">
                         <h4>
                             KMUTT Scientific Programming Boot Camp with Python
                         </h4>
-
+                        <p className="stack">
+                            <b> Stack: </b>Python NumPy, Pandas, Scikit-learn,
+                            RDKit
+                        </p>
                         <p>
                             Developed a machine learning-based virtual screening
                             tool for identifying anti-inflammatory compounds.
@@ -104,14 +107,12 @@ function App() {
                             discovered useful resources for machine learning
                             development
                         </p>
-                        <p className="stack">
-                            <b> Stack: </b>Python NumPy, Pandas, Scikit-learn,
-                            RDKit
-                        </p>
                     </div>
                     <div className="project">
                         <h4>Master Data</h4>
-
+                        <p className="stack">
+                            <b> Stack: </b>Python, SQL
+                        </p>
                         <p>
                             Worked on analyzing a relational database and SQL
                             script within a university database. The goal was to
@@ -121,9 +122,6 @@ function App() {
                             experience in working with real-world databases,
                             allowing me to enhance my skills in data analysis
                             and database management.
-                        </p>
-                        <p className="stack">
-                            <b> Stack: </b>Python, SQL
                         </p>
                     </div>
                 </section>
