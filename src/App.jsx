@@ -89,7 +89,24 @@ function App() {
                         </p>
                         <p className="stack">
                             <b> Stack: </b>Python FastAPI, NumPy, Pandas,
-                            Scikit-learn
+                            Scikit-learn, Matplotlib, MongoDB, Docker
+                        </p>
+                    </div>
+                    <div className="project">
+                        <h4>
+                            KMUTT Scientific Programming Boot Camp with Python
+                        </h4>
+
+                        <p>
+                            Developed a machine learning-based virtual screening
+                            tool for identifying anti-inflammatory compounds.
+                            Gained experience in scientific programming and
+                            discovered useful resources for machine learning
+                            development
+                        </p>
+                        <p className="stack">
+                            <b> Stack: </b>Python NumPy, Pandas, Scikit-learn,
+                            RDKit
                         </p>
                     </div>
                     <div className="project">
@@ -160,6 +177,32 @@ function App() {
                             </li>
                         </ul>
                     </div>
+                </section>
+                <section id="cert">
+                    <h3>Certifications</h3>
+                    <ul>
+                        <li>
+                            Effective Go: Architecture and Design Patterns,
+                            Skooldio
+                        </li>
+                        <li>
+                            Developing Robust API Services with Go, Skooldio
+                        </li>
+                        <li>
+                            Academy Accreditation - Databricks Lakehouse
+                            Fundamentals, Databricks
+                        </li>
+                        <li>
+                            Building Data Engineering Pipelines in Python,
+                            DataCamp
+                        </li>
+                        <li>
+                            Google Cloud Big Data and Machine Learning
+                            Fundamentals, Coursera
+                        </li>
+
+                        <li>Road to Data Engineer, DataTH</li>
+                    </ul>
                 </section>
                 <footer>
                     <p>&copy; 2023 Jirapat Klaokliang. All rights reserved.</p>
