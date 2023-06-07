@@ -133,3 +133,8 @@ footer p {
 .stack {
     margin-top: 10px;
 }
+
+.toRight {
+    float: right;
+    color: #888;
+}

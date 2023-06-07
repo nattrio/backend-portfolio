@@ -130,7 +130,8 @@ function App() {
                     <div className="project">
                         <h4>MSyne Innovations MSpire Academy</h4>
                         <p className="stack">
-                            <b>Data Engineer</b> Oct 2021 - Dec 2021
+                            <b>Data Engineer</b>
+                            <span className="toRight">Oct 2021 - Dec 2021</span>
                         </p>
 
                         <ul>
@@ -154,7 +155,8 @@ function App() {
                     <div className="project">
                         <h4>KASIKORN Business-Technology Group</h4>
                         <p className="stack">
-                            <b>Data Engineer Intern</b> Jun 2021 - Jul 2021
+                            <b>Data Engineer Intern</b>{" "}
+                            <span className="toRight">Jun 2021 - Jul 2021</span>
                         </p>
 
                         <ul>
